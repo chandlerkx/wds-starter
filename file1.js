@@ -13,3 +13,5 @@
 //   console.log("FEATURE 1 IS KINDA A LIAR");
 //   return new Promise((resolve, reject) => reject("to be cool"));
 // }
+
+console.log('hello world')
